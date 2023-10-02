@@ -1,2 +1,2 @@
-# Repositório Remoto 
-skrr
+# Repositório Local
+skrr local
